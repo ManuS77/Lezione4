@@ -1,0 +1,86 @@
+* {
+    
+    margin-top: 0px;
+    margin-left: 0px;  
+}
+.navbargen{
+    background-color: black
+    display: inline-block;
+
+}
+.navbar {
+    background-color: black;
+    color: white;
+    display: inline-block;
+    width: 100vw;
+   
+}
+
+.manu1{
+    height: 50px;
+    width: 100vw;
+    background-color: gold;
+}
+.manu2{
+    
+    font-size: 50px;
+}
+.imput1 {
+    
+    color: black;
+    height: 280%;
+    width: 20%;
+}
+.scacchiera{
+    background-color: black;
+    display: inline-block;
+    width: 100vw;
+    height: 100vw;
+}
+.nero{
+    display: inline-block;
+    background-color: rgb(85, 53, 5);
+    width: 12%;
+    height: 12%;
+
+}
+.bianco{
+    display: inline-block;
+    background-color: rgb(207, 123, 12);
+    width: 12%;
+    height: 12%;
+}
+
+.pedone{
+    height: 100%;
+    width: 100%;
+}
+
+.gol {
+    border-radius: 0%;
+}
+
+.font {
+    display: inline-block;
+    font-size: 280%;
+}
+
+
+
+
+
+
+
+
+
+
+.mirko1 {
+    height: 10vh;
+    width: 100vw;
+    background-color: black;    
+    
+}
+.mirkoh1{
+    color: gold;
+    font-size: 10vh;
+}
